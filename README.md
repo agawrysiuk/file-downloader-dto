@@ -1,7 +1,7 @@
 
 # File Download DTO
 
-A dto for the **File Download Service** that can be used be other applications
+A dto for the **[File Download Service](https://github.com/agawrysiuk/file-downloader)** that can be used be other applications
 
 ## Have it in maven local
 
