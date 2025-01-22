@@ -7,7 +7,7 @@ A dto for the **[File Download Service](https://github.com/agawrysiuk/file-downl
 
 ```bash
 git clone git@github.com:agawrysiuk/file-downloader-dto.git
-cd file-downloader-gto
+cd file-downloader-dto
 ./gradlew build
 ./gradlew publishMavenPublicationToMavenLocal
 ```
